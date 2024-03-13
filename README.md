@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Vincent, a student & developer located in NYC, passionate about exploring the realms of coding.<br><br><br><br>
+I'm Yaoyu, a student & developer located in NYC, passionate about exploring the realms of coding.<br><br><br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vey0710) 
 # 💻 Tech Stack:
