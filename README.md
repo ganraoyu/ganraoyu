@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Yaoyu, a student & developer based in NYC, passionate about exploring the realms of web development and Machine Learning. 
+I'm Yaoyu/Vincent, a student & developer based in NYC, passionate about exploring the realms of web development and Machine Learning. 
 
 Note: Privated all old project with poorly written code <br><br><br><br>
 ## 🌐 Socials:
