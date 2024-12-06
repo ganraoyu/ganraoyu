@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Yaoyu/Vincent, a student & developer based in NYC, passionate about exploring the realms of web development and Machine Learning. 
 
-Note: Privated all old project with poorly written code <br><br><br><br>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vey0710) 
 # 💻 Tech Stack:
