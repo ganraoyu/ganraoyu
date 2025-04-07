@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Yaoyu/Vincent, a student & developer based in NYC, passionate about exploring the realms of web development and Machine Learning. 
 
-
+Note: If you're here for the TFT AI Coach, hang tight — it will be released to the public very soon... ;)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vey0710) 
 # 💻 Tech Stack:
